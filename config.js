@@ -45,15 +45,15 @@ global.sid = 'https://s.id/ReyzShop' //s.id
 global.psaweria = 'https://saweria.com/ArilXd' //saweria
 
 /*============== NOMOR ==============*/
-global.nomorwa = '6282220427314' //whatsapp
-global.nomorbot = '6282220250401' //nomor Bot
-global.nomorown = '6282220427314' //nomor Owner
-global.namebot = 'ᴇʟᴀɪɴᴀ ᴀɪ' //nama Bot
-global.nameown = 'ᴀʀɪʟ ᴀʀᴅɪᴀɴsʏᴀʜ ' //nama Owner
+global.nomorwa = '628388527832' //whatsapp
+global.nomorbot = '628388527832' //nomor Bot
+global.nomorown = '6282154621492' //nomor Owner
+global.namebot = 'bot kanjut' //nama Bot
+global.nameown = 'azkanjut ' //nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282220427314', 'ᴀʀɪʟ ᴀʀᴅɪᴀɴsʏᴀʜ ', true] //creator/owner
+  ['6282154621492', 'azkanjut ', true] //creator/owner
 ] //put your number here
 global.mods = [] //moderator
 global.prems = [] //prem bukan disini
